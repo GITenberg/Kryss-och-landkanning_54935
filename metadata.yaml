@@ -1,0 +1,24 @@
+_repo: Kryss-och-landkanning_54935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Engström, Albert
+    alias: Engstrom, Albert
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '45725'
+    url: http://www.gutenberg.org/2009/agents/45725
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Engstr%C3%B6m
+description: ''
+gutenberg_issued: '2017-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54935'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kryss och landkänning
+url: http://www.gutenberg.org/ebooks/54935
